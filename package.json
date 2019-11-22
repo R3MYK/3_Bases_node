@@ -1,0 +1,16 @@
+{
+  "name": "3_bases_node",
+  "version": "1.0.0",
+  "description": "Aplicación de consola",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolás Martínez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {}
+}
